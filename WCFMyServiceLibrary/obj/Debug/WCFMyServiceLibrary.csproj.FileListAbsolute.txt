@@ -1,0 +1,5 @@
+C:\Практика\WCFMyServiceLibrary\WCFMyServiceLibrary\bin\Debug\WCFMyServiceLibrary.dll
+C:\Практика\WCFMyServiceLibrary\WCFMyServiceLibrary\bin\Debug\WCFMyServiceLibrary.pdb
+C:\Практика\WCFMyServiceLibrary\WCFMyServiceLibrary\obj\Debug\WCFMyServiceLibrary.csprojResolveAssemblyReference.cache
+C:\Практика\WCFMyServiceLibrary\WCFMyServiceLibrary\obj\Debug\WCFMyServiceLibrary.dll
+C:\Практика\WCFMyServiceLibrary\WCFMyServiceLibrary\obj\Debug\WCFMyServiceLibrary.pdb

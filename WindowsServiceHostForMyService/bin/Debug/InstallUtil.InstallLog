@@ -1,0 +1,14 @@
+﻿
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Практика\WCFMyServiceLibrary\WindowsServiceHostForMyService\bin\Debug\WindowsServiceHostForMyService.exe.
+Данный файл находится в C:\Практика\WCFMyServiceLibrary\WindowsServiceHostForMyService\bin\Debug\WindowsServiceHostForMyService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки C:\Практика\WCFMyServiceLibrary\WindowsServiceHostForMyService\bin\Debug\WindowsServiceHostForMyService.exe.
+Данный файл находится в C:\Практика\WCFMyServiceLibrary\WindowsServiceHostForMyService\bin\Debug\WindowsServiceHostForMyService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.

@@ -1,0 +1,13 @@
+﻿Выполняется установка сборки 'C:\Практика\WCFMyServiceLibrary\WindowsServiceHostForMyService\bin\Debug\WindowsServiceHostForMyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Практика\WCFMyServiceLibrary\WindowsServiceHostForMyService\bin\Debug\WindowsServiceHostForMyService.InstallLog
+   assemblypath = C:\Практика\WCFMyServiceLibrary\WindowsServiceHostForMyService\bin\Debug\WindowsServiceHostForMyService.exe
+Устанавливается служба WindowsServiceHostForMyService...
+Служба WindowsServiceHostForMyService успешно установлена.
+Создается исходный EventLog WindowsServiceHostForMyService в журнале Application...
+Выполняется фиксация сборки 'C:\Практика\WCFMyServiceLibrary\WindowsServiceHostForMyService\bin\Debug\WindowsServiceHostForMyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Практика\WCFMyServiceLibrary\WindowsServiceHostForMyService\bin\Debug\WindowsServiceHostForMyService.InstallLog
+   assemblypath = C:\Практика\WCFMyServiceLibrary\WindowsServiceHostForMyService\bin\Debug\WindowsServiceHostForMyService.exe

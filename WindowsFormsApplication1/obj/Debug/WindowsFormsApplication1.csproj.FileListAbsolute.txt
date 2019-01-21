@@ -1,0 +1,9 @@
+C:\Практика\WCFMyServiceLibrary\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Практика\WCFMyServiceLibrary\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Практика\WCFMyServiceLibrary\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Практика\WCFMyServiceLibrary\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Практика\WCFMyServiceLibrary\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Практика\WCFMyServiceLibrary\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Практика\WCFMyServiceLibrary\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Практика\WCFMyServiceLibrary\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Практика\WCFMyServiceLibrary\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
